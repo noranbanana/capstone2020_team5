@@ -66,7 +66,7 @@
   
 # 서버 리스트
 ---
-- bit.ly/watch-dog or http://54.209.138.220:8087/test.html 
+- http://bit.ly/watch-dog or http://54.209.138.220:8087/test.html 
   - 와치독 서비스 페이지입니다.
 - http://54.209.138.220:8000/watchdog?id=2  
   - id=2인 반려동물의데이터를 그래프화하여 사용자에게 보여줍니다.
